@@ -1,6 +1,6 @@
-# Repo-pre-MD
+# 1. Repo-pre-MD
 
 Repo  MD
 
-# Nadpis H1 hlavná úroveň
+# 2. adpis H1 hlavná úroveň
   oka projekt vypatra

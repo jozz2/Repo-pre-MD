@@ -9,3 +9,12 @@ Repo  MD
 
 ###  Nadpis 3. úrovne
   je ich až 6
+
+ine
+===
+
+test
+-----
+
+**Dnes** je **veru** _pekný_ deň.  
+Aj zajtra.
